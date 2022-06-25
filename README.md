@@ -1,2 +1,2 @@
 # Shortest path
- all the possible path among network's vectors
+ Calculating All the possible paths with their costs among any two pairs of network's vectors by implementing the Floyd Warshall Algorithm
